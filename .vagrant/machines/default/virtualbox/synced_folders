@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/tudescuenton":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/tudescuenton","hostpath":"/home/zecho/proyectos/laravel/tudescuenton","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/zecho/proyectos/laravel/tudescuenton","disabled":false}}}
